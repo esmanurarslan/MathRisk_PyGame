@@ -59,6 +59,9 @@ The game window should open, starting with the main menu.
 *   `expression_handler.py`: Generates random mathematical expressions based on difficulty.
 *   `assets/`: Folder containing all game assets (images, sounds, fonts, saved data).
 
+
+<img width="925" alt="Ekran Resmi 2025-05-10 00 18 56" src="https://github.com/user-attachments/assets/db006fb0-0349-42e6-a59f-e6b8718134d9" />
+
 ---
 
 Enjoy playing MathRisk!
